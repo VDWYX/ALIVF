@@ -4,7 +4,7 @@ window.addEventListener("scroll", function() {
         body.classList.add("zoom-out");
     } else {
     }
-    document.body.style.zoom = "55%"; // Mengatur zoom ke 50%
+    document.body.style.zoom = "65%"; // Mengatur zoom ke 50%
 });
 const musicButton = document.getElementById('musicPlayButton');
 const musicAudio = document.getElementById('musicAudio');
